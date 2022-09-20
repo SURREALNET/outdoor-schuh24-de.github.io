@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/thermopad", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/thermopad-zehenwaermer-1-paar-thermopad-5637192262.jpg":"\u002Fassets\u002Fimages\u002Fthermopad-zehenwaermer-1-paar-thermopad-5637192262.webp"}}],fetch:{},mutations:void 0});
