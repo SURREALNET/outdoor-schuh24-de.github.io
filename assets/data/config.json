@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "https://www.outdoor-schuh24.de/",
+    "hostname": "https://www.outdoor-schuh24.de/",
+    "email": "outdoor-schuh24.de/@surrealnetworks.io",
+    "organization": "outdoor-schuh24.de",
+    "logoText": "outdoor-schuh24.de",
+    "title": "Outdoor-Schuh24.de",
+    "subline": "Outdoor Schuh Shop für Damen und Herren",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,120 +14,162 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
+    "popularProducts": [
+        "5637926814",
+        "5637940496",
+        "5637905243"
     ],
+    "winnerProducts": [
+        "5637912770",
+        "5637913362",
+        "5637873327"
+    ],
+    "featuredCategories": [
+        "Schuhzubehör",
+        "Kletterschuhe",
+        "Wanderschuhe und Trekkingschuhe",
+        "Laufschuhe",
+        "Outdoor-Sandalen",
+        "Freizeitschuhe",
+        "Hausschuhe und Biwakschuhe",
+        "Trailrunningschuhe",
+        "Winterstiefel"
+    ],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoor-schuh24.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Wassersport",
-        "featureText": "feature text jo",
+        "mainKeyword": "Outdoor Schuhe",
+        "featureText": "<p class=\"mb-4\">Schuhe für den Outdoor-Bereich gibt es in verschiedenen Ausführungen. Für Bergsteiger und Kletterer sind spezielle Kletterschuhe die richtige Wahl, während Wanderschuhe und Trekkingschuhe für längere Touren geeignet sind. Auch beim Laufen gibt es spezielle Schuhe, die durch ihre robuste Konstruktion perfekt für den Außeneinsatz geeignet sind. Wer hingegen lieber barfuß unterwegs ist, findet auch Sandalen und Freizeitschuhe für den Outdoor-Bereich. Bei schlechtem Wetter halten Winterstiefel die Füße trocken und warm.</p><p>Egal, ob du auf Wanderwegen unterwegs bist, einen Berg besteigen oder einfach nur gemütlich spazieren gehen, die richtigen Outdoor-Schuhe können den Unterschied ausmachen. Bei www.Outdoor-Schuh24.de führen wir eine große Auswahl an Kletterschuhen, Wanderschuhen und Trekkingschuhen, Laufschuhen, Outdoor-Sandalen, Freizeitschuhen, Slippern und Biwack-Schuhen sowie Trailrunning-Schuhen, die sich für jede Aktivität eignen. Und unsere Winterstiefel sind perfekt, um auch den kältesten Temperaturen zu trotzen. Stöber noch heute in unserem Shop und finde das perfekte paar Outdoor-Schuhe, damit du bei deinem nächsten Abenteuer bequem und sicher unterwegs sind!</p>",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "",
-            "texts": [{
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
+            "title": "Outdoor-Schuhe | Shop",
+            "metaDescription": "Ein Online Shop für die besten Outdoor-Schuhe auf dem Markt. Wir haben alles, was du brauchst. Stöbere noch heute in unserer Auswahl!",
+            "robots": "index, follow",
+            "texts": []
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Shop für Outdoor Schuhe",
+            "metaDescription": "Du suchst nach einer großen Auswahl an Outdoor-Schuhen? Im Online-Store findest du die besten Angebote für alle deine Lieblingsmarken!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Outdoor Schuhe von Marktführern",
+            "metaDescription": "Wir haben eine große Auswahl an Schuhen für Männer, Frauen und Kinder, von den größten Marken der Outdoor-Branche. Egal, auf welcher Suche du bist.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "defaultTitle": "$PRODUKT online zum besten Preis kaufen | Outdoor-Schuh24.de",
+        "defaultMetaDescription": "$PRODUKT vom der Marke $HERSTELLER zum absoluten top Preis. Bestelle jetzt das Produkt $PRODUKT aus der Kategorie $KATEGORIE zum hammer Preis.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "noindex, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "defaultTitle": "$KATEGORIE kaufen",
+        "defaultMetaDescription": "Du findest alles, von Sandalen bis hin zu Sneakers, und das alles zu günstigen Preisen. Egal, welche Art von Schuhen du suchst, bei uns wirst du fündig.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "wanderschuhe",
+                "slug": "wanderschuhe",
+                "name": "wanderschuhe",
+                "seo": {
+                    "title": "Wanderschuhe kaufen",
+                    "metaDescription": "Wenn du auf der Suche nach einem neuen Paar Schuhe für dein nächstes Wanderabenteuer bist, solltest du dir die Auswahl in unserem Shop ansehen.",
+                    "robots": "index, follow",
+                    "texts": []
+                }
+            },
+            {
+                "key": "laufschuhe",
+                "slug": "laufschuhe",
+                "name": "laufschuhe",
+                "seo": {
+                    "title": "Laufschuhe für Herren, Damen und Kinder",
+                    "metaDescription": "Egal, ob du einen gepolsterten oder stützenden Schuh suchst, wir haben das Richtige. Stöbere noch heute in unserer Kollektion von Laufschuhen.",
+                    "robots": "index, follow",
+                    "texts": []
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "defaultTitle": "Outdoor Schuhe von $HERSTELLER",
+        "defaultMetaDescription": "Die besten Produkte von $HERSTELLER zum günstigsten Preis für Herren, Damen und Kinder. Von Profis getestet. Jetzt bestellen!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "salomon",
+                "name": "salomon",
+                "seo": {
+                    "title": "Produkte von Salomon kaufen",
+                    "metaDescription": "Der perfekte Schuh für den Komfort. Bestehend aus bester Technologie um deine Füße in jedem Gelände zu sichern und zu unterstützen. Jetzt zum Sparpreis kaufen.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "la sportiva",
+                "name": "la sportiva",
+                "seo": {
+                    "title": "Produkte von La Sportiva online kaufen",
+                    "metaDescription": "Bei der großen Auswahl von La Sportiva findest du den passenden Schuh für deine nächste Aktivität. Ergatte dir jetzt deine Lieblingsprodukte zum fairen Preis.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
-            "title": "Start",
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Atmungsaktivität",
+        "Vielseitigkeit",
+        "Hochwertig",
+        "Preis-Leistungs-Verhältnis",
+        "Zuverlässig",
+        "Nachhaltig",
+        "Feuchtigkeitsleitend",
+        "Wasserdicht / Wasserabweisend"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Startseite",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Outdoor-Schuh24.de",
             "publish": true
         },
         {
-            "title": "Shop",
+            "title": "Online Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Shop für Outdoor Schuhe",
             "publish": true
         },
         {
             "title": "Marken",
+            "publish": true,
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
-            "publish": true
+            "linkTitle": "Outdoor Schuhe von führenden Herstellern"
         },
         {
             "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
             "publish": false
         }
     ]
