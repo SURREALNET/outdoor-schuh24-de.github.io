@@ -52,7 +52,103 @@
             "title": "Outdoor-Schuhe | Shop",
             "metaDescription": "Ein Online Shop für die besten Outdoor-Schuhe auf dem Markt. Wir haben alles, was du brauchst. Stöbere noch heute in unserer Auswahl!",
             "robots": "index, follow",
-            "texts": []
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor-Schuh24",
+                        "text": "Herzlich willkommen auf Outdoor-Schuh24, Ihrem Online-Shop für hochwertige Outdoor-Schuhe. Wir bieten Ihnen eine breite Auswahl an Schuhen für alle Arten von Outdoor-Aktivitäten, von Wandern und Trekking über Klettern und Trailrunning bis hin zu Fahrradsport und Winteraktivitäten. Unsere Schuhe sind aus hochwertigen Materialien hergestellt und bieten Ihnen den bestmöglichen Schutz und Komfort bei Ihren Abenteuern im Freien.In unserem Online-Shop finden Sie Schuhe für Damen, Herren und Kinder in allen Größen und Farben. Wir haben auch eine große Auswahl an Schuhzubehör wie Schuhpflegeprodukte, Einlegesohlen, Gamaschen und Schnürsenkel.Unsere Kategorieseite macht es Ihnen leicht, die gewünschten Schuhe zu finden. Stöbern Sie durch unsere Kategorieseite und entdecken Sie die verschiedenen Arten von Outdoor-Schuhen, die wir im Angebot haben.Wir bei Outdoor-Schuh24 sind stolz auf unsere Kundenbetreuung und unser Engagement für Qualität und Zufriedenheit. Wir stehen Ihnen jederzeit zur Verfügung, um Sie bei Ihren Einkäufen zu unterstützen und Ihnen ein unvergessliches Einkaufserlebnis zu bieten.Also zögern Sie nicht, stöbern Sie durch unsere Produkte und entdecken Sie Ihre neuen Lieblings-Outdoor-Schuhe. Wir freuen uns darauf, Sie auf Outdoor-Schuh24 begrüßen zu dürfen."
+                    },
+                    {
+                        "title": "Schuhzubehör",
+                        "text": "<a href=\"/kategorie/schuhzubehoer/\" title=\"Schuhzubehör\">Schuhzubehör</a> ist für jeden Outdoor-Enthusiasten unverzichtbar. Ob es darum geht, die Lebensdauer Ihrer Schuhe zu verlängern oder einfach nur bequemer zu machen, unser Sortiment an Schuhzubehör bietet alles, was Sie benötigen. Von Ersatz-Schnürsenkeln bis hin zu Fußbetten und Innensohlen finden Sie hier alles, was Sie für Ihre Schuhe benötigen. Stöbern Sie durch unser Angebot an Schuhzubehör und finden Sie genau das, was Sie suchen."
+                    },
+                    {
+                        "title": "Schuhpflege",
+                        "text": "<a href=\"/kategorie/schuhpflege/\" title=\"Schuhpflege\">Schuhpflege</a> ist ein wichtiger Teil des Schuh-Eigentums. Unsere Schuhpflege-Produkte sorgen dafür, dass Ihre Schuhe auch nach vielen Abenteuern noch in Top-Form sind. Ob es darum geht, Leder zu reinigen oder zu imprägnieren, oder um das Entfernen von Schmutz und Dreck, unser Sortiment an Schuhpflege-Produkten bietet alles, was Sie benötigen. Stöbern Sie durch unser Angebot an Schuhpflege-Produkten und bewahren Sie den Zustand Ihrer Schuhe."
+                    },
+                    {
+                        "title": "Gamaschen",
+                        "text": "<a href=\"/kategorie/gamaschen/\" title=\"Gamaschen\">Gamaschen</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Gamaschen schützen Ihre Beine und Stiefel vor Schmutz, Dreck und Feuchtigkeit. Ob Sie auf einer Wanderung oder einer Jagd unterwegs sind, Gamaschen sind unverzichtbar für eine angenehme und sichere Erfahrung. Stöbern Sie durch unser Angebot an Gamaschen und finden Sie genau das, was Sie suchen."
+                    },
+                    {
+                        "title": "Einlegesohlen",
+                        "text": "<a href=\"/kategorie/einlegesohlen/\" title=\"Einlegesohlen\">Einlegesohlen</a> sind ein unverzichtbarer Bestandteil jedes Paars Outdoor-Schuhe. Sie bieten zusätzlichen Komfort und Unterstützung für Ihre Füße und reduzieren die Belastung bei längeren Wanderungen oder anderen Outdoor-Aktivitäten. Unser Sortiment an Einlegesohlen bietet eine breite Auswahl an Optionen, die auf Ihre individuellen Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Einlegesohlen und finden Sie die perfekte Ergänzung für Ihre Outdoor-Schuhe."
+                    },
+                    {
+                        "title": "Schnürsenkel und Zubehör",
+                        "text": "<a href=\"/kategorie/schnuersenkel-und-zubehoer/\" title=\"Schnürsenkel und Zubehör\">Schnürsenkel und Zubehör</a> sind ein wichtiger Bestandteil jedes Paars Outdoor-Schuhe. Ob Sie einen Ersatz-Schnürsenkel benötigen oder einfach nur ein neues Accessoire für Ihre Schuhe suchen, unser Sortiment bietet alles, was Sie benötigen. Von farbenfrohen Schnürsenkeln bis hin zu praktischen Clip-Systemen finden Sie hier alles, was Sie für Ihre Schuhe benötigen. Stöbern Sie durch unser Angebot an Schnürsenkeln und Zubehör und finden Sie genau das, was Sie suchen."
+                    },
+                    {
+                        "title": "Kletterschuhe",
+                        "text": "<a href=\"/kategorie/kletterschuhe/\" title=\"Kletterschuhe\">Kletterschuhe</a> sind ein wichtiger Bestandteil der Ausrüstung für jeden Kletterer. Unsere Kletterschuhe bieten hervorragende Griffigkeit und Unterstützung, um Ihnen bei jedem Kletterabenteuer die bestmögliche Performance zu bieten. Ob Sie ein erfahrener Kletterer oder ein Anfänger sind, unser Sortiment an Kletterschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Kletterschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Kletterabenteuer."
+                    },
+                    {
+                        "title": "Wanderschuhe und Trekkingschuhe",
+                        "text": "<a href=\"/kategorie/wanderschuhe-und-trekkingschuhe/\" title=\"Wanderschuhe und Trekkingschuhe\">Wanderschuhe und Trekkingschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Wanderschuhe und Trekkingschuhe bieten hervorragenden Halt und Unterstützung für lange Wanderungen und Trekking-Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Wanderungen oder robusten und stabilen Schuhen für anspruchsvollere Touren sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderschuhen und Trekkingschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Hikingschuhe",
+                        "text": "<a href=\"/kategorie/hikingschuhe/\" title=\"Hikingschuhe\">Hikingschuhe</a> sind eine großartige Wahl für alle, die regelmäßig wandern und trekken. Unsere Hikingschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße und sorgen für ein angenehmes Tragegefühl bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Hikingschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hikingschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Hikingstiefel",
+                        "text": "<a href=\"/kategorie/hikingstiefel/\" title=\"Hikingstiefel\">Hikingstiefel</a> sind eine unverzichtbare Ausrüstung für anspruchsvollere Wanderungen und Trekking-Abenteuer. Unsere Hikingstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße und sorgen für ein angenehmes Tragegefühl bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Hikingstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hikingstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Bergstiefel",
+                        "text": "<a href=\"/kategorie/bergstiefel/\" title=\"Bergstiefel\">Bergstiefel</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Berggänger. Unsere Bergstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer in den Bergen. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Bergstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Bergstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Berggänger-Abenteuer."
+                    },
+                    {
+                        "title": "Wanderstiefel",
+                        "text": "<a href=\"/kategorie/wanderstiefel/\" title=\"Wanderstiefel\">Wanderstiefel</a> sind eine großartige Wahl für alle, die regelmäßig wandern und trekken. Unsere Wanderstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Wanderstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Wandern-Abenteuer."
+                    },
+                    {
+                        "title": "Trekkingstiefel",
+                        "text": "<a href=\"/kategorie/trekkingstiefel/\" title=\"Trekkingstiefel\">Trekkingstiefel</a> sind eine unverzichtbare Ausrüstung für anspruchsvollere Wandern- und Trekking-Abenteuer. Unsere Trekkingstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Trekkingstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Trekkingstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Wandern- oder Trekking-Abenteuer."
+                    },
+                    {
+                        "title": "Wanderschuhe",
+                        "text": "<a href=\"/kategorie/wanderschuhe/\" title=\"Wanderschuhe\">Wanderschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Wanderschuhe bieten hervorragenden Halt und Unterstützung für lange Wanderungen und Trekking-Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Wanderungen oder robusten und stabilen Schuhen für anspruchsvollere Touren sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Approachschuhe und Zustiegsschuhe",
+                        "text": "<a href=\"/kategorie/approachschuhe-und-zustiegsschuhe/\" title=\"Approachschuhe und Zustiegsschuhe\">Approachschuhe und Zustiegsschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Alpinisten und Kletterer. Unsere Approachschuhe und Zustiegsschuhe bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Zustieg und jeder Approachetappe. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Approachschuhen und Zustiegsschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Approachschuhen und Zustiegsschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Alpinisten- oder Kletterer-Abenteuer."
+                    },
+                    {
+                        "title": "Fahrradschuhe",
+                        "text": "<a href=\"/kategorie/fahrradschuhe/\" title=\"Fahrradschuhe\">Fahrradschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Radfahrer. Unsere Fahrradschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Fahrradtour. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Fahrradschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Fahrradschuhen und finden Sie die perfekte Ausrüstung für Ihre nächste Fahrradtour."
+                    },
+                    {
+                        "title": "Laufschuhe",
+                        "text": "<a href=\"/kategorie/laufschuhe/\" title=\"Laufschuhe\">Laufschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Läufer. Unsere Laufschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Lauf. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Läufe oder robusten und stabilen Schuhen für anspruchsvollere Läufe sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Laufschuhen und finden Sie die perfekte Ausrüstung für Ihren nächsten Lauf."
+                    },
+                    {
+                        "title": "Outdoor-Sandalen",
+                        "text": "<a href=\"/kategorie/outdoor-sandalen/\" title=\"Outdoor-Sandalen\">Outdoor-Sandalen</a> sind eine großartige Wahl für alle, die viel Zeit im Freien verbringen. Unsere Outdoor-Sandalen bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Outdoor-Abenteuer. Ob Sie auf der Suche nach bequemen und luftigen Sandalen für warme Tage oder robusten und stabilen Sandalen für anspruchsvollere Abenteuer sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Outdoor-Sandalen und finden Sie die perfekte Ausrüstung für Ihr nächstes Outdoor-Abenteuer."
+                    },
+                    {
+                        "title": "Freizeitschuhe",
+                        "text": "<a href=\"/kategorie/freizeitschuhe/\" title=\"Freizeitschuhe\">Freizeitschuhe</a> sind eine unverzichtbare Ausrüstung für alle, die gerne bequem und stylisch unterwegs sind. Unsere Freizeitschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Freizeitaktivität. Ob Sie auf der Suche nach bequemen und lässigen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Freizeitschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Freizeitschuhen und finden Sie die perfekte Ausrüstung für Ihre Freizeitaktivitäten."
+                    },
+                    {
+                        "title": "Hausschuhe und Biwakschuhe",
+                        "text": "<a href=\"/kategorie/hausschuhe-und-biwakschuhe/\" title=\"Hausschuhe und Biwakschuhe\">Hausschuhe und Biwakschuhe</a> sind der ultimative Komfort für Ihre Füße. Unsere Hausschuhe und Biwakschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße, wann immer Sie es benötigen. Ob Sie auf der Suche nach bequemen Hausschuhen für den Alltag oder robusten Biwakschuhen für Abenteuer in der Natur sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hausschuhen und Biwakschuhen und finden Sie den ultimativen Komfort für Ihre Füße."
+                    },
+                    {
+                        "title": "Trailrunningschuhe",
+                        "text": "<a href=\"/kategorie/trailrunningschuhe/\" title=\"Trailrunningschuhe\">Trailrunningschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Trailrunner. Unsere Trailrunningschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Trailrun. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Läufe oder robusten und stabilen Schuhen für anspruchsvollere Läufe sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Trailrunningschuhen und finden Sie die perfekte Ausrüstung für Ihren nächsten Trailrun."
+                    },
+                    {
+                        "title": "Winterstiefel",
+                        "text": "<a href=\"/kategorie/winterstiefel/\" title=\"Winterstiefel\">Winterstiefel</a> sind eine unverzichtbare Ausrüstung für alle, die den Winter lieben. Unsere Winterstiefel bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Winteraktivität. Ob Sie auf der Suche nach bequemen und warm gehaltenen Stiefeln oder robusten und stabilen Stiefeln für anspruchsvollere Winterabenteuer sind, unser Sortiment an Winterstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Winterstiefeln und finden Sie die perfekte Ausrüstung für Ihre Winteraktivitäten."
+                    },
+                    {
+                        "title": "Sonstiges",
+                        "text": "Unser <a href=\"/kategorie/sonstiges/\" title=\"Sonstiges\">Sonstiges</a>-Sortiment bietet eine Vielzahl von Produkten, die für Outdoor-Abenteuer unverzichtbar sind. Von praktischen Accessoires bis hin zu nützlichen Ausrüstungsgegenständen finden Sie alles, was Sie für Ihre nächste Outdoor-Reise benötigen. Stöbern Sie durch unser Angebot an Sonstigem und entdecken Sie neue und nützliche Produkte, die Ihre Outdoor-Erfahrung verbessern werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Shop für Outdoor Schuhe",
