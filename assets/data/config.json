@@ -7,7 +7,7 @@
     "logoText": "outdoor-schuh24.de",
     "title": "Outdoor Schuhe für Damen und Herren",
     "subline": "Outdoor Schuhe für Damen und Herren",
-    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
     "kategorieUrl": "/kategorie/",
@@ -35,12 +35,14 @@
         "Trailrunningschuhe",
         "Winterstiefel"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/outdoor-schuh24.de",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoor-schuh24.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -52,7 +54,8 @@
             "robots": "index, follow",
             "seotext": {
                 "published": true,
-                "content": [{
+                "content": [
+                    {
                         "title": "Willkommen bei Outdoor-Schuh24",
                         "text": "Herzlich willkommen auf Outdoor-Schuh24, Ihrem Online-Shop für hochwertige Outdoor-Schuhe. Wir bieten Ihnen eine breite Auswahl an Schuhen für alle Arten von Outdoor-Aktivitäten, von Wandern und Trekking über Klettern und Trailrunning bis hin zu Fahrradsport und Winteraktivitäten. Unsere Schuhe sind aus hochwertigen Materialien hergestellt und bieten Ihnen den bestmöglichen Schutz und Komfort bei Ihren Abenteuern im Freien.In unserem Online-Shop finden Sie Schuhe für Damen, Herren und Kinder in allen Größen und Farben. Wir haben auch eine große Auswahl an Schuhzubehör wie Schuhpflegeprodukte, Einlegesohlen, Gamaschen und Schnürsenkel.Unsere Kategorieseite macht es Ihnen leicht, die gewünschten Schuhe zu finden. Stöbern Sie durch unsere Kategorieseite und entdecken Sie die verschiedenen Arten von Outdoor-Schuhen, die wir im Angebot haben.Wir bei Outdoor-Schuh24 sind stolz auf unsere Kundenbetreuung und unser Engagement für Qualität und Zufriedenheit. Wir stehen Ihnen jederzeit zur Verfügung, um Sie bei Ihren Einkäufen zu unterstützen und Ihnen ein unvergessliches Einkaufserlebnis zu bieten.Also zögern Sie nicht, stöbern Sie durch unsere Produkte und entdecken Sie Ihre neuen Lieblings-Outdoor-Schuhe. Wir freuen uns darauf, Sie auf Outdoor-Schuh24 begrüßen zu dürfen."
                     },
@@ -162,21 +165,24 @@
         "defaultTitle": "$PRODUKT online zum besten Preis kaufen | Outdoor-Schuh24.de",
         "defaultMetaDescription": "$PRODUKT vom der Marke $HERSTELLER zum absoluten top Preis. Bestelle jetzt das Produkt $PRODUKT aus der Kategorie $KATEGORIE zum hammer Preis.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "noindex, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "noindex, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE kaufen",
         "defaultMetaDescription": "Du findest alles, von Sandalen bis hin zu Sneakers, und das alles zu günstigen Preisen. Egal, welche Art von Schuhen du suchst, bei uns wirst du fündig.",
         "defaultRobots": "index, follow",
-        "categories": [{
+        "categories": [
+            {
                 "key": "wanderschuhe",
                 "slug": "wanderschuhe",
                 "name": "wanderschuhe",
@@ -204,7 +210,8 @@
         "defaultTitle": "Outdoor Schuhe von $HERSTELLER",
         "defaultMetaDescription": "Die besten Produkte von $HERSTELLER zum günstigsten Preis für Herren, Damen und Kinder. Von Profis getestet. Jetzt bestellen!",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "salomon",
                 "name": "salomon",
                 "seo": {
@@ -236,7 +243,8 @@
         "Feuchtigkeitsleitend",
         "Wasserdicht / Wasserabweisend"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Startseite",
             "linkTo": "/",
             "linkTitle": "Outdoor-Schuh24.de",
