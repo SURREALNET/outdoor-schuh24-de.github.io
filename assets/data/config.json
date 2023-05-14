@@ -1,308 +1,315 @@
 {
-  "configIsReady": true,
-  "domain": "outdoor-schuh24.de",
-  "hostname": "https://www.outdoor-schuh24.de",
-  "email": "outdoor-schuh24.de/@surrealnetworks.io",
-  "organization": "outdoor-schuh24.de",
-  "logoText": "outdoor-schuh24.de",
-  "title": "Outdoor Schuhe für Damen und Herren",
-  "subline": "Outdoor Schuhe für Damen und Herren",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637926814",
-    "5637940496",
-    "5637905243"
-  ],
-  "winnerProducts": [
-    "5637912770",
-    "5637913362",
-    "5637873327"
-  ],
-  "featuredCategories": [
-    "Schuhzubehör",
-    "Kletterschuhe",
-    "Wanderschuhe und Trekkingschuhe",
-    "Laufschuhe",
-    "Outdoor-Sandalen",
-    "Freizeitschuhe",
-    "Hausschuhe und Biwakschuhe",
-    "Trailrunningschuhe",
-    "Winterstiefel"
-  ],
-  "socialMediaAccounts": [
-    {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/outdoor-schuh24.de",
-      "iconClass": "fab fa-twitter",
-      "published": false
-    }
-  ],
-  "imageQuality": 90,
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Outdoor Schuhe",
-    "featureText": "<p class=\"mb-4\">Schuhe für den Outdoor-Bereich gibt es in verschiedenen Ausführungen. Für Bergsteiger und Kletterer sind spezielle Kletterschuhe die richtige Wahl, während Wanderschuhe und Trekkingschuhe für längere Touren geeignet sind. Auch beim Laufen gibt es spezielle Schuhe, die durch ihre robuste Konstruktion perfekt für den Außeneinsatz geeignet sind. Wer hingegen lieber barfuß unterwegs ist, findet auch Sandalen und Freizeitschuhe für den Outdoor-Bereich. Bei schlechtem Wetter halten Winterstiefel die Füße trocken und warm.</p><p>Egal, ob du auf Wanderwegen unterwegs bist, einen Berg besteigen oder einfach nur gemütlich spazieren gehen, die richtigen Outdoor-Schuhe können den Unterschied ausmachen. Bei www.Outdoor-Schuh24.de führen wir eine große Auswahl an Kletterschuhen, Wanderschuhen und Trekkingschuhen, Laufschuhen, Outdoor-Sandalen, Freizeitschuhen, Slippern und Biwack-Schuhen sowie Trailrunning-Schuhen, die sich für jede Aktivität eignen. Und unsere Winterstiefel sind perfekt, um auch den kältesten Temperaturen zu trotzen. Stöber noch heute in unserem Shop und finde das perfekte paar Outdoor-Schuhe, damit du bei deinem nächsten Abenteuer bequem und sicher unterwegs sind!</p>",
-    "index": {
-      "title": "Outdoor-Schuhe | Shop",
-      "metaDescription": "Ein Online Shop für die besten Outdoor-Schuhe auf dem Markt. Wir haben alles, was du brauchst. Stöbere noch heute in unserer Auswahl!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Outdoor-Schuh24",
-            "text": "Herzlich willkommen auf Outdoor-Schuh24, Ihrem Online-Shop für hochwertige Outdoor-Schuhe. Wir bieten Ihnen eine breite Auswahl an Schuhen für alle Arten von Outdoor-Aktivitäten, von Wandern und Trekking über Klettern und Trailrunning bis hin zu Fahrradsport und Winteraktivitäten. Unsere Schuhe sind aus hochwertigen Materialien hergestellt und bieten Ihnen den bestmöglichen Schutz und Komfort bei Ihren Abenteuern im Freien.In unserem Online-Shop finden Sie Schuhe für Damen, Herren und Kinder in allen Größen und Farben. Wir haben auch eine große Auswahl an Schuhzubehör wie Schuhpflegeprodukte, Einlegesohlen, Gamaschen und Schnürsenkel.Unsere Kategorieseite macht es Ihnen leicht, die gewünschten Schuhe zu finden. Stöbern Sie durch unsere Kategorieseite und entdecken Sie die verschiedenen Arten von Outdoor-Schuhen, die wir im Angebot haben.Wir bei Outdoor-Schuh24 sind stolz auf unsere Kundenbetreuung und unser Engagement für Qualität und Zufriedenheit. Wir stehen Ihnen jederzeit zur Verfügung, um Sie bei Ihren Einkäufen zu unterstützen und Ihnen ein unvergessliches Einkaufserlebnis zu bieten.Also zögern Sie nicht, stöbern Sie durch unsere Produkte und entdecken Sie Ihre neuen Lieblings-Outdoor-Schuhe. Wir freuen uns darauf, Sie auf Outdoor-Schuh24 begrüßen zu dürfen."
-          },
-          {
-            "title": "Schuhzubehör",
-            "text": "<a href=\"/kategorie/schuhzubehoer/\" title=\"Schuhzubehör\">Schuhzubehör</a> ist für jeden Outdoor-Enthusiasten unverzichtbar. Ob es darum geht, die Lebensdauer Ihrer Schuhe zu verlängern oder einfach nur bequemer zu machen, unser Sortiment an Schuhzubehör bietet alles, was Sie benötigen. Von Ersatz-Schnürsenkeln bis hin zu Fußbetten und Innensohlen finden Sie hier alles, was Sie für Ihre Schuhe benötigen. Stöbern Sie durch unser Angebot an Schuhzubehör und finden Sie genau das, was Sie suchen."
-          },
-          {
-            "title": "Schuhpflege",
-            "text": "<a href=\"/kategorie/schuhpflege/\" title=\"Schuhpflege\">Schuhpflege</a> ist ein wichtiger Teil des Schuh-Eigentums. Unsere Schuhpflege-Produkte sorgen dafür, dass Ihre Schuhe auch nach vielen Abenteuern noch in Top-Form sind. Ob es darum geht, Leder zu reinigen oder zu imprägnieren, oder um das Entfernen von Schmutz und Dreck, unser Sortiment an Schuhpflege-Produkten bietet alles, was Sie benötigen. Stöbern Sie durch unser Angebot an Schuhpflege-Produkten und bewahren Sie den Zustand Ihrer Schuhe."
-          },
-          {
-            "title": "Gamaschen",
-            "text": "<a href=\"/kategorie/gamaschen/\" title=\"Gamaschen\">Gamaschen</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Gamaschen schützen Ihre Beine und Stiefel vor Schmutz, Dreck und Feuchtigkeit. Ob Sie auf einer Wanderung oder einer Jagd unterwegs sind, Gamaschen sind unverzichtbar für eine angenehme und sichere Erfahrung. Stöbern Sie durch unser Angebot an Gamaschen und finden Sie genau das, was Sie suchen."
-          },
-          {
-            "title": "Einlegesohlen",
-            "text": "<a href=\"/kategorie/einlegesohlen/\" title=\"Einlegesohlen\">Einlegesohlen</a> sind ein unverzichtbarer Bestandteil jedes Paars Outdoor-Schuhe. Sie bieten zusätzlichen Komfort und Unterstützung für Ihre Füße und reduzieren die Belastung bei längeren Wanderungen oder anderen Outdoor-Aktivitäten. Unser Sortiment an Einlegesohlen bietet eine breite Auswahl an Optionen, die auf Ihre individuellen Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Einlegesohlen und finden Sie die perfekte Ergänzung für Ihre Outdoor-Schuhe."
-          },
-          {
-            "title": "Schnürsenkel und Zubehör",
-            "text": "<a href=\"/kategorie/schnuersenkel-und-zubehoer/\" title=\"Schnürsenkel und Zubehör\">Schnürsenkel und Zubehör</a> sind ein wichtiger Bestandteil jedes Paars Outdoor-Schuhe. Ob Sie einen Ersatz-Schnürsenkel benötigen oder einfach nur ein neues Accessoire für Ihre Schuhe suchen, unser Sortiment bietet alles, was Sie benötigen. Von farbenfrohen Schnürsenkeln bis hin zu praktischen Clip-Systemen finden Sie hier alles, was Sie für Ihre Schuhe benötigen. Stöbern Sie durch unser Angebot an Schnürsenkeln und Zubehör und finden Sie genau das, was Sie suchen."
-          },
-          {
-            "title": "Kletterschuhe",
-            "text": "<a href=\"/kategorie/kletterschuhe/\" title=\"Kletterschuhe\">Kletterschuhe</a> sind ein wichtiger Bestandteil der Ausrüstung für jeden Kletterer. Unsere Kletterschuhe bieten hervorragende Griffigkeit und Unterstützung, um Ihnen bei jedem Kletterabenteuer die bestmögliche Performance zu bieten. Ob Sie ein erfahrener Kletterer oder ein Anfänger sind, unser Sortiment an Kletterschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Kletterschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Kletterabenteuer."
-          },
-          {
-            "title": "Wanderschuhe und Trekkingschuhe",
-            "text": "<a href=\"/kategorie/wanderschuhe-und-trekkingschuhe/\" title=\"Wanderschuhe und Trekkingschuhe\">Wanderschuhe und Trekkingschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Wanderschuhe und Trekkingschuhe bieten hervorragenden Halt und Unterstützung für lange Wanderungen und Trekking-Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Wanderungen oder robusten und stabilen Schuhen für anspruchsvollere Touren sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderschuhen und Trekkingschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
-          },
-          {
-            "title": "Hikingschuhe",
-            "text": "<a href=\"/kategorie/hikingschuhe/\" title=\"Hikingschuhe\">Hikingschuhe</a> sind eine großartige Wahl für alle, die regelmäßig wandern und trekken. Unsere Hikingschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße und sorgen für ein angenehmes Tragegefühl bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Hikingschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hikingschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
-          },
-          {
-            "title": "Hikingstiefel",
-            "text": "<a href=\"/kategorie/hikingstiefel/\" title=\"Hikingstiefel\">Hikingstiefel</a> sind eine unverzichtbare Ausrüstung für anspruchsvollere Wanderungen und Trekking-Abenteuer. Unsere Hikingstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße und sorgen für ein angenehmes Tragegefühl bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Hikingstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hikingstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
-          },
-          {
-            "title": "Bergstiefel",
-            "text": "<a href=\"/kategorie/bergstiefel/\" title=\"Bergstiefel\">Bergstiefel</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Berggänger. Unsere Bergstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer in den Bergen. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Bergstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Bergstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Berggänger-Abenteuer."
-          },
-          {
-            "title": "Wanderstiefel",
-            "text": "<a href=\"/kategorie/wanderstiefel/\" title=\"Wanderstiefel\">Wanderstiefel</a> sind eine großartige Wahl für alle, die regelmäßig wandern und trekken. Unsere Wanderstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Wanderstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Wandern-Abenteuer."
-          },
-          {
-            "title": "Trekkingstiefel",
-            "text": "<a href=\"/kategorie/trekkingstiefel/\" title=\"Trekkingstiefel\">Trekkingstiefel</a> sind eine unverzichtbare Ausrüstung für anspruchsvollere Wandern- und Trekking-Abenteuer. Unsere Trekkingstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Trekkingstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Trekkingstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Wandern- oder Trekking-Abenteuer."
-          },
-          {
-            "title": "Wanderschuhe",
-            "text": "<a href=\"/kategorie/wanderschuhe-und-trekkingschuhe/\" title=\"Wanderschuhe\">Wanderschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Wanderschuhe bieten hervorragenden Halt und Unterstützung für lange Wanderungen und Trekking-Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Wanderungen oder robusten und stabilen Schuhen für anspruchsvollere Touren sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
-          },
-          {
-            "title": "Approachschuhe und Zustiegsschuhe",
-            "text": "<a href=\"/kategorie/approachschuhe-und-zustiegsschuhe/\" title=\"Approachschuhe und Zustiegsschuhe\">Approachschuhe und Zustiegsschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Alpinisten und Kletterer. Unsere Approachschuhe und Zustiegsschuhe bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Zustieg und jeder Approachetappe. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Approachschuhen und Zustiegsschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Approachschuhen und Zustiegsschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Alpinisten- oder Kletterer-Abenteuer."
-          },
-          {
-            "title": "Fahrradschuhe",
-            "text": "<a href=\"/kategorie/fahrradschuhe/\" title=\"Fahrradschuhe\">Fahrradschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Radfahrer. Unsere Fahrradschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Fahrradtour. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Fahrradschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Fahrradschuhen und finden Sie die perfekte Ausrüstung für Ihre nächste Fahrradtour."
-          },
-          {
-            "title": "Laufschuhe",
-            "text": "<a href=\"/kategorie/laufschuhe/\" title=\"Laufschuhe\">Laufschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Läufer. Unsere Laufschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Lauf. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Läufe oder robusten und stabilen Schuhen für anspruchsvollere Läufe sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Laufschuhen und finden Sie die perfekte Ausrüstung für Ihren nächsten Lauf."
-          },
-          {
-            "title": "Outdoor-Sandalen",
-            "text": "<a href=\"/kategorie/outdoor-sandalen/\" title=\"Outdoor-Sandalen\">Outdoor-Sandalen</a> sind eine großartige Wahl für alle, die viel Zeit im Freien verbringen. Unsere Outdoor-Sandalen bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Outdoor-Abenteuer. Ob Sie auf der Suche nach bequemen und luftigen Sandalen für warme Tage oder robusten und stabilen Sandalen für anspruchsvollere Abenteuer sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Outdoor-Sandalen und finden Sie die perfekte Ausrüstung für Ihr nächstes Outdoor-Abenteuer."
-          },
-          {
-            "title": "Freizeitschuhe",
-            "text": "<a href=\"/kategorie/freizeitschuhe/\" title=\"Freizeitschuhe\">Freizeitschuhe</a> sind eine unverzichtbare Ausrüstung für alle, die gerne bequem und stylisch unterwegs sind. Unsere Freizeitschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Freizeitaktivität. Ob Sie auf der Suche nach bequemen und lässigen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Freizeitschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Freizeitschuhen und finden Sie die perfekte Ausrüstung für Ihre Freizeitaktivitäten."
-          },
-          {
-            "title": "Hausschuhe und Biwakschuhe",
-            "text": "<a href=\"/kategorie/hausschuhe-und-biwakschuhe/\" title=\"Hausschuhe und Biwakschuhe\">Hausschuhe und Biwakschuhe</a> sind der ultimative Komfort für Ihre Füße. Unsere Hausschuhe und Biwakschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße, wann immer Sie es benötigen. Ob Sie auf der Suche nach bequemen Hausschuhen für den Alltag oder robusten Biwakschuhen für Abenteuer in der Natur sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hausschuhen und Biwakschuhen und finden Sie den ultimativen Komfort für Ihre Füße."
-          },
-          {
-            "title": "Trailrunningschuhe",
-            "text": "<a href=\"/kategorie/trailrunningschuhe/\" title=\"Trailrunningschuhe\">Trailrunningschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Trailrunner. Unsere Trailrunningschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Trailrun. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Läufe oder robusten und stabilen Schuhen für anspruchsvollere Läufe sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Trailrunningschuhen und finden Sie die perfekte Ausrüstung für Ihren nächsten Trailrun."
-          },
-          {
-            "title": "Winterstiefel",
-            "text": "<a href=\"/kategorie/winterstiefel/\" title=\"Winterstiefel\">Winterstiefel</a> sind eine unverzichtbare Ausrüstung für alle, die den Winter lieben. Unsere Winterstiefel bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Winteraktivität. Ob Sie auf der Suche nach bequemen und warm gehaltenen Stiefeln oder robusten und stabilen Stiefeln für anspruchsvollere Winterabenteuer sind, unser Sortiment an Winterstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Winterstiefeln und finden Sie die perfekte Ausrüstung für Ihre Winteraktivitäten."
-          },
-          {
-            "title": "Sonstiges",
-            "text": "Unser <a href=\"/kategorie/sonstiges/\" title=\"Sonstiges\">Sonstiges</a>-Sortiment bietet eine Vielzahl von Produkten, die für Outdoor-Abenteuer unverzichtbar sind. Von praktischen Accessoires bis hin zu nützlichen Ausrüstungsgegenständen finden Sie alles, was Sie für Ihre nächste Outdoor-Reise benötigen. Stöbern Sie durch unser Angebot an Sonstigem und entdecken Sie neue und nützliche Produkte, die Ihre Outdoor-Erfahrung verbessern werden."
-          }
+    "configIsReady": true,
+    "domain": "outdoor-schuh24.de",
+    "hostname": "https://www.outdoor-schuh24.de",
+    "email": "outdoor-schuh24.de/@surrealnetworks.io",
+    "organization": "outdoor-schuh24.de",
+    "logoText": "outdoor-schuh24.de",
+    "title": "Outdoor Schuhe für Damen und Herren",
+    "subline": "Outdoor Schuhe für Damen und Herren",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637926814",
+        "5637940496",
+        "5637905243"
+    ],
+    "winnerProducts": [
+        "5637912770",
+        "5637913362",
+        "5637873327"
+    ],
+    "featuredCategories": [
+        "Schuhzubehör",
+        "Kletterschuhe",
+        "Wanderschuhe und Trekkingschuhe",
+        "Laufschuhe",
+        "Outdoor-Sandalen",
+        "Freizeitschuhe",
+        "Hausschuhe und Biwakschuhe",
+        "Trailrunningschuhe",
+        "Winterstiefel"
+    ],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/outdoor-schuh24.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Outdoor Schuhe",
+        "featureText": "<p class=\"mb-4\">Schuhe für den Outdoor-Bereich gibt es in verschiedenen Ausführungen. Für Bergsteiger und Kletterer sind spezielle Kletterschuhe die richtige Wahl, während Wanderschuhe und Trekkingschuhe für längere Touren geeignet sind. Auch beim Laufen gibt es spezielle Schuhe, die durch ihre robuste Konstruktion perfekt für den Außeneinsatz geeignet sind. Wer hingegen lieber barfuß unterwegs ist, findet auch Sandalen und Freizeitschuhe für den Outdoor-Bereich. Bei schlechtem Wetter halten Winterstiefel die Füße trocken und warm.</p><p>Egal, ob du auf Wanderwegen unterwegs bist, einen Berg besteigen oder einfach nur gemütlich spazieren gehen, die richtigen Outdoor-Schuhe können den Unterschied ausmachen. Bei www.Outdoor-Schuh24.de führen wir eine große Auswahl an Kletterschuhen, Wanderschuhen und Trekkingschuhen, Laufschuhen, Outdoor-Sandalen, Freizeitschuhen, Slippern und Biwack-Schuhen sowie Trailrunning-Schuhen, die sich für jede Aktivität eignen. Und unsere Winterstiefel sind perfekt, um auch den kältesten Temperaturen zu trotzen. Stöber noch heute in unserem Shop und finde das perfekte paar Outdoor-Schuhe, damit du bei deinem nächsten Abenteuer bequem und sicher unterwegs sind!</p>",
+        "index": {
+            "title": "Outdoor-Schuhe | Shop",
+            "metaDescription": "Ein Online Shop für die besten Outdoor-Schuhe auf dem Markt. Wir haben alles, was du brauchst. Stöbere noch heute in unserer Auswahl!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Outdoor-Schuh24",
+                        "text": "Herzlich willkommen auf Outdoor-Schuh24, Ihrem Online-Shop für hochwertige Outdoor-Schuhe. Wir bieten Ihnen eine breite Auswahl an Schuhen für alle Arten von Outdoor-Aktivitäten, von Wandern und Trekking über Klettern und Trailrunning bis hin zu Fahrradsport und Winteraktivitäten. Unsere Schuhe sind aus hochwertigen Materialien hergestellt und bieten Ihnen den bestmöglichen Schutz und Komfort bei Ihren Abenteuern im Freien.In unserem Online-Shop finden Sie Schuhe für Damen, Herren und Kinder in allen Größen und Farben. Wir haben auch eine große Auswahl an Schuhzubehör wie Schuhpflegeprodukte, Einlegesohlen, Gamaschen und Schnürsenkel.Unsere Kategorieseite macht es Ihnen leicht, die gewünschten Schuhe zu finden. Stöbern Sie durch unsere Kategorieseite und entdecken Sie die verschiedenen Arten von Outdoor-Schuhen, die wir im Angebot haben.Wir bei Outdoor-Schuh24 sind stolz auf unsere Kundenbetreuung und unser Engagement für Qualität und Zufriedenheit. Wir stehen Ihnen jederzeit zur Verfügung, um Sie bei Ihren Einkäufen zu unterstützen und Ihnen ein unvergessliches Einkaufserlebnis zu bieten.Also zögern Sie nicht, stöbern Sie durch unsere Produkte und entdecken Sie Ihre neuen Lieblings-Outdoor-Schuhe. Wir freuen uns darauf, Sie auf Outdoor-Schuh24 begrüßen zu dürfen."
+                    },
+                    {
+                        "title": "Schuhzubehör",
+                        "text": "<a href=\"/kategorie/schuhzubehoer/\" title=\"Schuhzubehör\">Schuhzubehör</a> ist für jeden Outdoor-Enthusiasten unverzichtbar. Ob es darum geht, die Lebensdauer Ihrer Schuhe zu verlängern oder einfach nur bequemer zu machen, unser Sortiment an Schuhzubehör bietet alles, was Sie benötigen. Von Ersatz-Schnürsenkeln bis hin zu Fußbetten und Innensohlen finden Sie hier alles, was Sie für Ihre Schuhe benötigen. Stöbern Sie durch unser Angebot an Schuhzubehör und finden Sie genau das, was Sie suchen."
+                    },
+                    {
+                        "title": "Schuhpflege",
+                        "text": "<a href=\"/kategorie/schuhpflege/\" title=\"Schuhpflege\">Schuhpflege</a> ist ein wichtiger Teil des Schuh-Eigentums. Unsere Schuhpflege-Produkte sorgen dafür, dass Ihre Schuhe auch nach vielen Abenteuern noch in Top-Form sind. Ob es darum geht, Leder zu reinigen oder zu imprägnieren, oder um das Entfernen von Schmutz und Dreck, unser Sortiment an Schuhpflege-Produkten bietet alles, was Sie benötigen. Stöbern Sie durch unser Angebot an Schuhpflege-Produkten und bewahren Sie den Zustand Ihrer Schuhe."
+                    },
+                    {
+                        "title": "Gamaschen",
+                        "text": "<a href=\"/kategorie/gamaschen/\" title=\"Gamaschen\">Gamaschen</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Gamaschen schützen Ihre Beine und Stiefel vor Schmutz, Dreck und Feuchtigkeit. Ob Sie auf einer Wanderung oder einer Jagd unterwegs sind, Gamaschen sind unverzichtbar für eine angenehme und sichere Erfahrung. Stöbern Sie durch unser Angebot an Gamaschen und finden Sie genau das, was Sie suchen."
+                    },
+                    {
+                        "title": "Einlegesohlen",
+                        "text": "<a href=\"/kategorie/einlegesohlen/\" title=\"Einlegesohlen\">Einlegesohlen</a> sind ein unverzichtbarer Bestandteil jedes Paars Outdoor-Schuhe. Sie bieten zusätzlichen Komfort und Unterstützung für Ihre Füße und reduzieren die Belastung bei längeren Wanderungen oder anderen Outdoor-Aktivitäten. Unser Sortiment an Einlegesohlen bietet eine breite Auswahl an Optionen, die auf Ihre individuellen Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Einlegesohlen und finden Sie die perfekte Ergänzung für Ihre Outdoor-Schuhe."
+                    },
+                    {
+                        "title": "Schnürsenkel und Zubehör",
+                        "text": "<a href=\"/kategorie/schnuersenkel-und-zubehoer/\" title=\"Schnürsenkel und Zubehör\">Schnürsenkel und Zubehör</a> sind ein wichtiger Bestandteil jedes Paars Outdoor-Schuhe. Ob Sie einen Ersatz-Schnürsenkel benötigen oder einfach nur ein neues Accessoire für Ihre Schuhe suchen, unser Sortiment bietet alles, was Sie benötigen. Von farbenfrohen Schnürsenkeln bis hin zu praktischen Clip-Systemen finden Sie hier alles, was Sie für Ihre Schuhe benötigen. Stöbern Sie durch unser Angebot an Schnürsenkeln und Zubehör und finden Sie genau das, was Sie suchen."
+                    },
+                    {
+                        "title": "Kletterschuhe",
+                        "text": "<a href=\"/kategorie/kletterschuhe/\" title=\"Kletterschuhe\">Kletterschuhe</a> sind ein wichtiger Bestandteil der Ausrüstung für jeden Kletterer. Unsere Kletterschuhe bieten hervorragende Griffigkeit und Unterstützung, um Ihnen bei jedem Kletterabenteuer die bestmögliche Performance zu bieten. Ob Sie ein erfahrener Kletterer oder ein Anfänger sind, unser Sortiment an Kletterschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Kletterschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Kletterabenteuer."
+                    },
+                    {
+                        "title": "Wanderschuhe und Trekkingschuhe",
+                        "text": "<a href=\"/kategorie/wanderschuhe-und-trekkingschuhe/\" title=\"Wanderschuhe und Trekkingschuhe\">Wanderschuhe und Trekkingschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Wanderschuhe und Trekkingschuhe bieten hervorragenden Halt und Unterstützung für lange Wanderungen und Trekking-Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Wanderungen oder robusten und stabilen Schuhen für anspruchsvollere Touren sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderschuhen und Trekkingschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Hikingschuhe",
+                        "text": "<a href=\"/kategorie/hikingschuhe/\" title=\"Hikingschuhe\">Hikingschuhe</a> sind eine großartige Wahl für alle, die regelmäßig wandern und trekken. Unsere Hikingschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße und sorgen für ein angenehmes Tragegefühl bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Hikingschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hikingschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Hikingstiefel",
+                        "text": "<a href=\"/kategorie/hikingstiefel/\" title=\"Hikingstiefel\">Hikingstiefel</a> sind eine unverzichtbare Ausrüstung für anspruchsvollere Wanderungen und Trekking-Abenteuer. Unsere Hikingstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße und sorgen für ein angenehmes Tragegefühl bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Hikingstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hikingstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Bergstiefel",
+                        "text": "<a href=\"/kategorie/bergstiefel/\" title=\"Bergstiefel\">Bergstiefel</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Berggänger. Unsere Bergstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer in den Bergen. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Bergstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Bergstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Berggänger-Abenteuer."
+                    },
+                    {
+                        "title": "Wanderstiefel",
+                        "text": "<a href=\"/kategorie/wanderstiefel/\" title=\"Wanderstiefel\">Wanderstiefel</a> sind eine großartige Wahl für alle, die regelmäßig wandern und trekken. Unsere Wanderstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Wanderstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Wandern-Abenteuer."
+                    },
+                    {
+                        "title": "Trekkingstiefel",
+                        "text": "<a href=\"/kategorie/trekkingstiefel/\" title=\"Trekkingstiefel\">Trekkingstiefel</a> sind eine unverzichtbare Ausrüstung für anspruchsvollere Wandern- und Trekking-Abenteuer. Unsere Trekkingstiefel bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Stiefeln oder robusten und stabilen Stiefeln sind, unser Sortiment an Trekkingstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Trekkingstiefeln und finden Sie die perfekte Ausrüstung für Ihr nächstes Wandern- oder Trekking-Abenteuer."
+                    },
+                    {
+                        "title": "Wanderschuhe",
+                        "text": "<a href=\"/kategorie/wanderschuhe-und-trekkingschuhe/\" title=\"Wanderschuhe\">Wanderschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für jeden Outdoor-Enthusiasten. Unsere Wanderschuhe bieten hervorragenden Halt und Unterstützung für lange Wanderungen und Trekking-Abenteuer. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Wanderungen oder robusten und stabilen Schuhen für anspruchsvollere Touren sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Wanderschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Abenteuer."
+                    },
+                    {
+                        "title": "Approachschuhe und Zustiegsschuhe",
+                        "text": "<a href=\"/kategorie/approachschuhe-und-zustiegsschuhe/\" title=\"Approachschuhe und Zustiegsschuhe\">Approachschuhe und Zustiegsschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Alpinisten und Kletterer. Unsere Approachschuhe und Zustiegsschuhe bieten robusten und stabilen Halt und Unterstützung für Ihre Füße bei jedem Zustieg und jeder Approachetappe. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Approachschuhen und Zustiegsschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Approachschuhen und Zustiegsschuhen und finden Sie die perfekte Ausrüstung für Ihr nächstes Alpinisten- oder Kletterer-Abenteuer."
+                    },
+                    {
+                        "title": "Fahrradschuhe",
+                        "text": "<a href=\"/kategorie/fahrradschuhe/\" title=\"Fahrradschuhe\">Fahrradschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Radfahrer. Unsere Fahrradschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Fahrradtour. Ob Sie auf der Suche nach leichten und bequemen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Fahrradschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Fahrradschuhen und finden Sie die perfekte Ausrüstung für Ihre nächste Fahrradtour."
+                    },
+                    {
+                        "title": "Laufschuhe",
+                        "text": "<a href=\"/kategorie/laufschuhe/\" title=\"Laufschuhe\">Laufschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Läufer. Unsere Laufschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Lauf. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Läufe oder robusten und stabilen Schuhen für anspruchsvollere Läufe sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Laufschuhen und finden Sie die perfekte Ausrüstung für Ihren nächsten Lauf."
+                    },
+                    {
+                        "title": "Outdoor-Sandalen",
+                        "text": "<a href=\"/kategorie/outdoor-sandalen/\" title=\"Outdoor-Sandalen\">Outdoor-Sandalen</a> sind eine großartige Wahl für alle, die viel Zeit im Freien verbringen. Unsere Outdoor-Sandalen bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Outdoor-Abenteuer. Ob Sie auf der Suche nach bequemen und luftigen Sandalen für warme Tage oder robusten und stabilen Sandalen für anspruchsvollere Abenteuer sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Outdoor-Sandalen und finden Sie die perfekte Ausrüstung für Ihr nächstes Outdoor-Abenteuer."
+                    },
+                    {
+                        "title": "Freizeitschuhe",
+                        "text": "<a href=\"/kategorie/freizeitschuhe/\" title=\"Freizeitschuhe\">Freizeitschuhe</a> sind eine unverzichtbare Ausrüstung für alle, die gerne bequem und stylisch unterwegs sind. Unsere Freizeitschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Freizeitaktivität. Ob Sie auf der Suche nach bequemen und lässigen Schuhen oder robusten und stabilen Schuhen sind, unser Sortiment an Freizeitschuhen bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Freizeitschuhen und finden Sie die perfekte Ausrüstung für Ihre Freizeitaktivitäten."
+                    },
+                    {
+                        "title": "Hausschuhe und Biwakschuhe",
+                        "text": "<a href=\"/kategorie/hausschuhe-und-biwakschuhe/\" title=\"Hausschuhe und Biwakschuhe\">Hausschuhe und Biwakschuhe</a> sind der ultimative Komfort für Ihre Füße. Unsere Hausschuhe und Biwakschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße, wann immer Sie es benötigen. Ob Sie auf der Suche nach bequemen Hausschuhen für den Alltag oder robusten Biwakschuhen für Abenteuer in der Natur sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Hausschuhen und Biwakschuhen und finden Sie den ultimativen Komfort für Ihre Füße."
+                    },
+                    {
+                        "title": "Trailrunningschuhe",
+                        "text": "<a href=\"/kategorie/trailrunningschuhe/\" title=\"Trailrunningschuhe\">Trailrunningschuhe</a> sind ein unverzichtbarer Teil der Ausrüstung für alle Trailrunner. Unsere Trailrunningschuhe bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jedem Trailrun. Ob Sie auf der Suche nach leichten und bequemen Schuhen für kürzere Läufe oder robusten und stabilen Schuhen für anspruchsvollere Läufe sind, unser Sortiment bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Trailrunningschuhen und finden Sie die perfekte Ausrüstung für Ihren nächsten Trailrun."
+                    },
+                    {
+                        "title": "Winterstiefel",
+                        "text": "<a href=\"/kategorie/winterstiefel/\" title=\"Winterstiefel\">Winterstiefel</a> sind eine unverzichtbare Ausrüstung für alle, die den Winter lieben. Unsere Winterstiefel bieten hervorragenden Halt und Unterstützung für Ihre Füße bei jeder Winteraktivität. Ob Sie auf der Suche nach bequemen und warm gehaltenen Stiefeln oder robusten und stabilen Stiefeln für anspruchsvollere Winterabenteuer sind, unser Sortiment an Winterstiefeln bietet eine breite Auswahl an Optionen, die auf Ihre Bedürfnisse abgestimmt sind. Stöbern Sie durch unser Angebot an Winterstiefeln und finden Sie die perfekte Ausrüstung für Ihre Winteraktivitäten."
+                    },
+                    {
+                        "title": "Sonstiges",
+                        "text": "Unser <a href=\"/kategorie/sonstiges/\" title=\"Sonstiges\">Sonstiges</a>-Sortiment bietet eine Vielzahl von Produkten, die für Outdoor-Abenteuer unverzichtbar sind. Von praktischen Accessoires bis hin zu nützlichen Ausrüstungsgegenständen finden Sie alles, was Sie für Ihre nächste Outdoor-Reise benötigen. Stöbern Sie durch unser Angebot an Sonstigem und entdecken Sie neue und nützliche Produkte, die Ihre Outdoor-Erfahrung verbessern werden."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Shop für Outdoor Schuhe",
+            "metaDescription": "Du suchst nach einer großen Auswahl an Outdoor-Schuhen? Im Online-Store findest du die besten Angebote für alle deine Lieblingsmarken!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Outdoor Schuhe von Marktführern",
+            "metaDescription": "Wir haben eine große Auswahl an Schuhen für Männer, Frauen und Kinder, von den größten Marken der Outdoor-Branche. Egal, auf welcher Suche du bist.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online zum besten Preis kaufen | Outdoor-Schuh24.de",
+        "defaultMetaDescription": "$PRODUKT vom der Marke $HERSTELLER zum absoluten top Preis. Bestelle jetzt das Produkt $PRODUKT aus der Kategorie $KATEGORIE zum hammer Preis.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "noindex, follow"
+                }
+            },
+            {
+                "sku": "5637912770",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "On CLOUD 5 Freizeitschuhe: Stil und Komfort vereint",
+                            "text": "<p class=\"justify\">Die On CLOUD 5 Freizeitschuhe sind die perfekte Wahl für alle, die auf der Suche nach einem stilvollen und bequemen Schuh für den Alltag sind. Mit ihrer einzigartigen Farbkombination aus niagara und schwarz, bieten diese Schuhe sowohl Fashion- als auch Komfortliebhabern einen echten Hingucker.</p><p class=\"justify\">Die Marke On ist bekannt für ihre hochwertigen Materialien und Designs, die sich ideal für den täglichen Gebrauch eignen. Die CLOUD 5 Freizeitschuhe sind keine Ausnahme. Sie bestehen aus atmungsaktiven und langlebigen Materialien, die für ein angenehmes Tragegefühl und eine lange Lebensdauer sorgen. Dies macht sie zum idealen Begleiter für alle Fälle.</p><p class=\"justify\">Die Schuhe sind in den Kategorien Outdoor-Schuhe und Freizeitschuhe eingestuft und gehören zur CLOUD 5 Kollektion. Sie sind in einer Vielzahl von Größen erhältlich, so dass für jeden die passende Größe gefunden werden kann. Außerdem überzeugen sie mit einem Preis von 139,95 Euro, was sie zu einer erschwinglichen Option für hochwertige Freizeitschuhe macht.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 5 Sternen und 483 Kundenrezensionen, kann man sicher sein, dass die On CLOUD 5 Freizeitschuhe hervorragende Qualität und Zufriedenheit bieten. Kunden loben vor allem den hohen Tragekomfort, das ansprechende Design und die gute Verarbeitung der Schuhe.</p><p class=\"justify\">Zusammenfassend sind die On CLOUD 5 Freizeitschuhe die perfekte Wahl für alle, die Wert auf Design, Komfort und Qualität legen. Mit ihrer ansprechenden Farbkombination und ihrem hohen Tragekomfort sind sie der ideale Begleiter für zahlreiche Freizeitaktivitäten und überzeugen durch ihre Langlebigkeit und hohe Kundenzufriedenheit.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637913362",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Hoka One One M CLIFTON 8 Laufschuhe - Die perfekte Wahl für Läufer",
+                            "text": "<p class=\"justify\">Die Hoka One One M CLIFTON 8 Laufschuhe in der Farbe Blue Fog / Plein Air sind die ideale Wahl für Herren, die komfortable und hochwertige Laufschuhe suchen. Mit ihrem modernen Design und dem Fokus auf Qualität hat die Marke Hoka One One dieses Modell entwickelt, um die Bedürfnisse von Läufern zu erfüllen.</p><p class=\"justify\">Die Laufschuhe gehören zur Kategorie Outdoor-Schuhe und bieten eine hervorragende Dämpfung und Stabilität beim Laufen. Durch innovative Technologien und Materialien sorgt der M CLIFTON 8 für ein leichtes und angenehmes Laufgefühl. Mit einem Preis von 139,95 € sind diese Laufschuhe eine Investition in Ihre Gesundheit und Ihr Wohlbefinden.</p><p class=\"justify\">Das beeindruckende Design der Hoka One One M CLIFTON 8 Laufschuhe in der Farbe Blue Fog / Plein Air ist nicht nur optisch ansprechend, sondern bietet auch eine hohe Funktionalität. Die Laufschuhe sind perfekt für verschiedene Arten von Outdoor-Aktivitäten geeignet und bieten hervorragenden Halt und Traktion auf verschiedenen Untergründen.</p><p class=\"justify\">Die Hoka One One M CLIFTON 8 Laufschuhe haben eine hohe durchschnittliche Bewertung von 5 Sternen, basierend auf 103 Kundenbewertungen. Dies unterstreicht die hohe Qualität, den Komfort und die Langlebigkeit dieses Modells. Wer auf der Suche nach Laufschuhen ist, die beste Leistung und optimalen Komfort bieten, sollte sich für die Hoka One One M CLIFTON 8 Laufschuhe entscheiden.</p><p class=\"justify\">Mit den Hoka One One M CLIFTON 8 Laufschuhen treffen Sie eine hervorragende Wahl für Ihre Gesundheit, Ihr Wohlbefinden und Ihre sportlichen Ziele. Lassen Sie sich von der hohen Qualität und dem Komfort dieses Modells beeindrucken und genießen Sie lange Trainingsläufe oder entspannte Spaziergänge in der Natur.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637873327",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel - Wheat Farbe",
+                            "text": "<p class=\"justify\">Der Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel der Marke Timberland ist ein hochwertiger und stylischer Stiefel für die kalte Jahreszeit. Mit seiner ansprechenden Wheat-Farbe und dem typischen Timberland-Design bringt dieser Stiefel Eleganz und Funktionalität in perfekter Kombination.</p><p class=\"justify\">Dieser Winterstiefel ist für den Outdoor-Bereich konzipiert und bietet hervorragenden Komfort und Schutz vor den Elementen. Die WARM LINED BOOT WP-Technologie sorgt für eine angenehme Wärmeisolierung und das wasserdichte Material hält die Füße trocken bei schlechtem Wetter. Die rutschfeste Sohle ermöglicht eine ausgezeichnete Traktion auf verschiedenen Oberflächen und ist somit perfekt für winterliche Bedingungen geeignet.</p><p class=\"justify\">Der Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel gehört zu den Kategorien Start, Outdoor-Schuhe und Winterstiefel. Mit seinen 480 Bewertungen und 5 Sternen ist dieser Stiefel ein Bestseller in seiner Kategorie. Die Artikelnummer lautet 5637873327.</p><p class=\"justify\">Mit seinem hohen Schaft und der bequemen Polsterung ist dieser Winterstiefel sowohl modisch als auch praktisch. Der Schaft ist aus Premium-Nubukleder gefertigt und die Innensohle ist aus weichem, warmem Fleece, das für zusätzliche Wärme und Komfort sorgt. Das Timberland-Logo auf der Seite verleiht dem Stiefel zusätzliche Authentizität und zeigt den hohen Qualitätsanspruch der Marke.</p><p class=\"justify\">Der Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel ist ein Must-have für alle, die auf der Suche nach einem Winterstiefel sind, der Optik und Schutz in einem bietet. Ob für den täglichen Gebrauch oder für spezielle Outdoor-Aktivitäten, mit diesem Stiefel sind sie stets optimal ausgestattet und bereit für Ihre Winterabenteuer.</p>"
+                        }
+                    ]
+                }
+            }
         ]
-      }
     },
-    "shop": {
-      "title": "Shop für Outdoor Schuhe",
-      "metaDescription": "Du suchst nach einer großen Auswahl an Outdoor-Schuhen? Im Online-Store findest du die besten Angebote für alle deine Lieblingsmarken!",
-      "robots": "index, follow"
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE kaufen",
+        "defaultMetaDescription": "Du findest alles, von Sandalen bis hin zu Sneakers, und das alles zu günstigen Preisen. Egal, welche Art von Schuhen du suchst, bei uns wirst du fündig.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "wanderschuhe",
+                "slug": "wanderschuhe",
+                "name": "wanderschuhe",
+                "seo": {
+                    "title": "Wanderschuhe kaufen",
+                    "metaDescription": "Wenn du auf der Suche nach einem neuen Paar Schuhe für dein nächstes Wanderabenteuer bist, solltest du dir die Auswahl in unserem Shop ansehen.",
+                    "robots": "index, follow",
+                    "texts": []
+                }
+            },
+            {
+                "key": "laufschuhe",
+                "slug": "laufschuhe",
+                "name": "laufschuhe",
+                "seo": {
+                    "title": "Laufschuhe für Herren, Damen und Kinder",
+                    "metaDescription": "Egal, ob du einen gepolsterten oder stützenden Schuh suchst, wir haben das Richtige. Stöbere noch heute in unserer Kollektion von Laufschuhen.",
+                    "robots": "index, follow",
+                    "texts": []
+                }
+            }
+        ]
     },
-    "hersteller": {
-      "title": "Outdoor Schuhe von Marktführern",
-      "metaDescription": "Wir haben eine große Auswahl an Schuhen für Männer, Frauen und Kinder, von den größten Marken der Outdoor-Branche. Egal, auf welcher Suche du bist.",
-      "robots": "index, follow"
+    "brandSeo": {
+        "defaultTitle": "Outdoor Schuhe von $HERSTELLER",
+        "defaultMetaDescription": "Die besten Produkte von $HERSTELLER zum günstigsten Preis für Herren, Damen und Kinder. Von Profis getestet. Jetzt bestellen!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "salomon",
+                "name": "salomon",
+                "seo": {
+                    "title": "Produkte von Salomon kaufen",
+                    "metaDescription": "Der perfekte Schuh für den Komfort. Bestehend aus bester Technologie um deine Füße in jedem Gelände zu sichern und zu unterstützen. Jetzt zum Sparpreis kaufen.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "la sportiva",
+                "name": "la sportiva",
+                "seo": {
+                    "title": "Produkte von La Sportiva online kaufen",
+                    "metaDescription": "Bei der großen Auswahl von La Sportiva findest du den passenden Schuh für deine nächste Aktivität. Ergatte dir jetzt deine Lieblingsprodukte zum fairen Preis.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Atmungsaktivität",
+        "Vielseitigkeit",
+        "Hochwertig",
+        "Preis-Leistungs-Verhältnis",
+        "Zuverlässig",
+        "Nachhaltig",
+        "Feuchtigkeitsleitend",
+        "Wasserdicht / Wasserabweisend"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Startseite",
+            "linkTo": "/",
+            "linkTitle": "Outdoor-Schuh24.de",
+            "publish": true
+        },
+        {
+            "title": "Online Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Shop für Outdoor Schuhe",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Outdoor Schuhe von führenden Herstellern"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+    },
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT online zum besten Preis kaufen | Outdoor-Schuh24.de",
-    "defaultMetaDescription": "$PRODUKT vom der Marke $HERSTELLER zum absoluten top Preis. Bestelle jetzt das Produkt $PRODUKT aus der Kategorie $KATEGORIE zum hammer Preis.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "noindex, follow"
-        }
-      },
-      {
-        "sku": "5637912770",
-        "seo": {
-          "texts": [
-            {
-              "title": "On CLOUD 5 Freizeitschuhe: Stil und Komfort vereint",
-              "text": "<p class=\"justify\">Die On CLOUD 5 Freizeitschuhe sind die perfekte Wahl für alle, die auf der Suche nach einem stilvollen und bequemen Schuh für den Alltag sind. Mit ihrer einzigartigen Farbkombination aus niagara und schwarz, bieten diese Schuhe sowohl Fashion- als auch Komfortliebhabern einen echten Hingucker.</p><p class=\"justify\">Die Marke On ist bekannt für ihre hochwertigen Materialien und Designs, die sich ideal für den täglichen Gebrauch eignen. Die CLOUD 5 Freizeitschuhe sind keine Ausnahme. Sie bestehen aus atmungsaktiven und langlebigen Materialien, die für ein angenehmes Tragegefühl und eine lange Lebensdauer sorgen. Dies macht sie zum idealen Begleiter für alle Fälle.</p><p class=\"justify\">Die Schuhe sind in den Kategorien Outdoor-Schuhe und Freizeitschuhe eingestuft und gehören zur CLOUD 5 Kollektion. Sie sind in einer Vielzahl von Größen erhältlich, so dass für jeden die passende Größe gefunden werden kann. Außerdem überzeugen sie mit einem Preis von 139,95 Euro, was sie zu einer erschwinglichen Option für hochwertige Freizeitschuhe macht.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 5 Sternen und 483 Kundenrezensionen, kann man sicher sein, dass die On CLOUD 5 Freizeitschuhe hervorragende Qualität und Zufriedenheit bieten. Kunden loben vor allem den hohen Tragekomfort, das ansprechende Design und die gute Verarbeitung der Schuhe.</p><p class=\"justify\">Zusammenfassend sind die On CLOUD 5 Freizeitschuhe die perfekte Wahl für alle, die Wert auf Design, Komfort und Qualität legen. Mit ihrer ansprechenden Farbkombination und ihrem hohen Tragekomfort sind sie der ideale Begleiter für zahlreiche Freizeitaktivitäten und überzeugen durch ihre Langlebigkeit und hohe Kundenzufriedenheit.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637913362",
-        "seo": {
-          "texts": [
-            {
-              "title": "Hoka One One M CLIFTON 8 Laufschuhe - Die perfekte Wahl für Läufer",
-              "text": "<p class=\"justify\">Die Hoka One One M CLIFTON 8 Laufschuhe in der Farbe Blue Fog / Plein Air sind die ideale Wahl für Herren, die komfortable und hochwertige Laufschuhe suchen. Mit ihrem modernen Design und dem Fokus auf Qualität hat die Marke Hoka One One dieses Modell entwickelt, um die Bedürfnisse von Läufern zu erfüllen.</p><p class=\"justify\">Die Laufschuhe gehören zur Kategorie Outdoor-Schuhe und bieten eine hervorragende Dämpfung und Stabilität beim Laufen. Durch innovative Technologien und Materialien sorgt der M CLIFTON 8 für ein leichtes und angenehmes Laufgefühl. Mit einem Preis von 139,95 € sind diese Laufschuhe eine Investition in Ihre Gesundheit und Ihr Wohlbefinden.</p><p class=\"justify\">Das beeindruckende Design der Hoka One One M CLIFTON 8 Laufschuhe in der Farbe Blue Fog / Plein Air ist nicht nur optisch ansprechend, sondern bietet auch eine hohe Funktionalität. Die Laufschuhe sind perfekt für verschiedene Arten von Outdoor-Aktivitäten geeignet und bieten hervorragenden Halt und Traktion auf verschiedenen Untergründen.</p><p class=\"justify\">Die Hoka One One M CLIFTON 8 Laufschuhe haben eine hohe durchschnittliche Bewertung von 5 Sternen, basierend auf 103 Kundenbewertungen. Dies unterstreicht die hohe Qualität, den Komfort und die Langlebigkeit dieses Modells. Wer auf der Suche nach Laufschuhen ist, die beste Leistung und optimalen Komfort bieten, sollte sich für die Hoka One One M CLIFTON 8 Laufschuhe entscheiden.</p><p class=\"justify\">Mit den Hoka One One M CLIFTON 8 Laufschuhen treffen Sie eine hervorragende Wahl für Ihre Gesundheit, Ihr Wohlbefinden und Ihre sportlichen Ziele. Lassen Sie sich von der hohen Qualität und dem Komfort dieses Modells beeindrucken und genießen Sie lange Trainingsläufe oder entspannte Spaziergänge in der Natur.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637873327",
-        "seo": {
-          "texts": [
-            {
-              "title": "Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel - Wheat Farbe",
-              "text": "<p class=\"justify\">Der Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel der Marke Timberland ist ein hochwertiger und stylischer Stiefel für die kalte Jahreszeit. Mit seiner ansprechenden Wheat-Farbe und dem typischen Timberland-Design bringt dieser Stiefel Eleganz und Funktionalität in perfekter Kombination.</p><p class=\"justify\">Dieser Winterstiefel ist für den Outdoor-Bereich konzipiert und bietet hervorragenden Komfort und Schutz vor den Elementen. Die WARM LINED BOOT WP-Technologie sorgt für eine angenehme Wärmeisolierung und das wasserdichte Material hält die Füße trocken bei schlechtem Wetter. Die rutschfeste Sohle ermöglicht eine ausgezeichnete Traktion auf verschiedenen Oberflächen und ist somit perfekt für winterliche Bedingungen geeignet.</p><p class=\"justify\">Der Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel gehört zu den Kategorien Start, Outdoor-Schuhe und Winterstiefel. Mit seinen 480 Bewertungen und 5 Sternen ist dieser Stiefel ein Bestseller in seiner Kategorie. Die Artikelnummer lautet 5637873327.</p><p class=\"justify\">Mit seinem hohen Schaft und der bequemen Polsterung ist dieser Winterstiefel sowohl modisch als auch praktisch. Der Schaft ist aus Premium-Nubukleder gefertigt und die Innensohle ist aus weichem, warmem Fleece, das für zusätzliche Wärme und Komfort sorgt. Das Timberland-Logo auf der Seite verleiht dem Stiefel zusätzliche Authentizität und zeigt den hohen Qualitätsanspruch der Marke.</p><p class=\"justify\">Der Timberland LUCIA WAY 6IN WARM LINED BOOT WP Winterstiefel ist ein Must-have für alle, die auf der Suche nach einem Winterstiefel sind, der Optik und Schutz in einem bietet. Ob für den täglichen Gebrauch oder für spezielle Outdoor-Aktivitäten, mit diesem Stiefel sind sie stets optimal ausgestattet und bereit für Ihre Winterabenteuer.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE kaufen",
-    "defaultMetaDescription": "Du findest alles, von Sandalen bis hin zu Sneakers, und das alles zu günstigen Preisen. Egal, welche Art von Schuhen du suchst, bei uns wirst du fündig.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "wanderschuhe",
-        "slug": "wanderschuhe",
-        "name": "wanderschuhe",
-        "seo": {
-          "title": "Wanderschuhe kaufen",
-          "metaDescription": "Wenn du auf der Suche nach einem neuen Paar Schuhe für dein nächstes Wanderabenteuer bist, solltest du dir die Auswahl in unserem Shop ansehen.",
-          "robots": "index, follow",
-          "texts": []
-        }
-      },
-      {
-        "key": "laufschuhe",
-        "slug": "laufschuhe",
-        "name": "laufschuhe",
-        "seo": {
-          "title": "Laufschuhe für Herren, Damen und Kinder",
-          "metaDescription": "Egal, ob du einen gepolsterten oder stützenden Schuh suchst, wir haben das Richtige. Stöbere noch heute in unserer Kollektion von Laufschuhen.",
-          "robots": "index, follow",
-          "texts": []
-        }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Outdoor Schuhe von $HERSTELLER",
-    "defaultMetaDescription": "Die besten Produkte von $HERSTELLER zum günstigsten Preis für Herren, Damen und Kinder. Von Profis getestet. Jetzt bestellen!",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "salomon",
-        "name": "salomon",
-        "seo": {
-          "title": "Produkte von Salomon kaufen",
-          "metaDescription": "Der perfekte Schuh für den Komfort. Bestehend aus bester Technologie um deine Füße in jedem Gelände zu sichern und zu unterstützen. Jetzt zum Sparpreis kaufen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "key": "la sportiva",
-        "name": "la sportiva",
-        "seo": {
-          "title": "Produkte von La Sportiva online kaufen",
-          "metaDescription": "Bei der großen Auswahl von La Sportiva findest du den passenden Schuh für deine nächste Aktivität. Ergatte dir jetzt deine Lieblingsprodukte zum fairen Preis.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Atmungsaktivität",
-    "Vielseitigkeit",
-    "Hochwertig",
-    "Preis-Leistungs-Verhältnis",
-    "Zuverlässig",
-    "Nachhaltig",
-    "Feuchtigkeitsleitend",
-    "Wasserdicht / Wasserabweisend"
-  ],
-  "navigationLinks": [
-    {
-      "title": "Startseite",
-      "linkTo": "/",
-      "linkTitle": "Outdoor-Schuh24.de",
-      "publish": true
-    },
-    {
-      "title": "Online Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Shop für Outdoor Schuhe",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "publish": true,
-      "linkTo": "/marken/",
-      "linkTitle": "Outdoor Schuhe von führenden Herstellern"
-    },
-    {
-      "title": "Kontakt",
-      "linkTitle": "Kontakt aufnehmen",
-      "linkTo": "#kontakt",
-      "publish": false
-    }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
